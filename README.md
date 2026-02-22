@@ -1,4 +1,4 @@
-# Hi, I'm ChidcGithub 👋
+# Hi there, I'm ChidcGithub
 
 I am a passionate developer from Changsha, China, with a diverse interest in software development across multiple programming languages and platforms. My GitHub profile showcases my journey through various projects, from mobile applications to machine learning tools and classic games.
 
