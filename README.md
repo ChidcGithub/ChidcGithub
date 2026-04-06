@@ -2,7 +2,7 @@
 
 ## Hi there！ I'm Chidc
 
-A full stack developer.
+A full stack developer (a high school student).
 
 ## Contact
 
