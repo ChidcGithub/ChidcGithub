@@ -1,12 +1,12 @@
-## Hi there！ I'm Chidc 👋
+## Hi there！ I'm Chidc
 
-A full-stack developer (a high school student) from Changsha, China.
+A full-stack developer from Changsha, China.
 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Chidcgithub&label=Profile%20Views&color=2f80ed&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Status-Coding%20%F0%9F%92%BB-2f80ed?style=flat&logo=visual-studio-code" alt="status" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-2f80ed?style=flat&logo=react" alt="focus" />
+  <img src="https://img.shields.io/badge/Role-Developer-2f80ed?style=flat&logo=github" alt="role" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Systems-2f80ed?style=flat&logo=terminal" alt="focus" />
 </p>
 
 ---
